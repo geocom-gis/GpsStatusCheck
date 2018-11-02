@@ -1,9 +1,9 @@
 ﻿# GpsStatusCheck Tools
 
 This is a simple ASP.NET ConsoleApp, which displays the status of computer's location.
-The location information may come from multiple providers, such as GPS, Wi-Fi triangulation, and cell phone tower triangulation. It uses the **System.Device.Location** library (see https://docs.microsoft.com/en-us/dotnet/api/system.device.location).
+The location information may come from multiple providers, such as GPS, Wi-Fi triangulation and cell phone tower triangulation. It uses the **System.Device.Location** library (see https://docs.microsoft.com/en-us/dotnet/api/system.device.location).
 
-The alternative is to use the **DotSpatial.Positioning** library, which allow to conntect to any external Bluetooth or Serial GPS-Device (see https://www.nuget.org/packages/DotSpatial.Positioning/ and https://github.com/DotSpatial/DotSpatial).
+The alternative is to use the **DotSpatial.Positioning** library, which allows to conntect to any external Bluetooth or Serial GPS-Device (see https://www.nuget.org/packages/DotSpatial.Positioning/ and https://github.com/DotSpatial/DotSpatial).
 
 For more information please contact: support@geocom.ch. 
 
